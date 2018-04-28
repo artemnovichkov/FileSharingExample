@@ -4,6 +4,10 @@
 
 Example project for Ole's [tweet](https://twitter.com/olebegemann/status/987346188591681536).
 
+<p align="center">
+    <img src="example.gif" width="400" />
+</p>
+
 ## Information
 
 The main goal of the tweet and this example is to simplify exploring Documents folder. Content of this folder can be available via Files.app if the app supports File Sharing. To enable this feature you should add these flags to `Info.plist`:
