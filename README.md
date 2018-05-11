@@ -15,7 +15,7 @@ The main goal of the tweet and this example is to simplify exploring Documents f
 LSSupportsOpeningDocumentsInPlace=YES
 UIFileSharingEnabled=YES
 ```
-I implemented a Build Phase script for configuring these flags. The script adds it for Debug configuration and removes for Release configuration. That's it! The script is written in Swift by the way 😉.
+I implemented a [Build Phase script](https://github.com/artemnovichkov/FileSharingExample/blob/a1140036ff58774bc1c2438ff41d461de3429ffe/Scripts/file_sharing.swift#L1-L36) for configuring these flags. The script adds it for Debug configuration and removes for Release configuration. That's it! The script is written in Swift by the way 😉.
 
 ## Author
 
